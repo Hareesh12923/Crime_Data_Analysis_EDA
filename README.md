@@ -17,7 +17,7 @@ This project involves performing Exploratory Data Analysis (EDA) on crime data t
 - **Python**: Main programming language used for data analysis and visualization.
 - **Pandas**: For data manipulation, cleaning, and processing.
 - **Matplotlib & Seaborn**: For creating plots and visualizations to represent data insights.
-- **Jupyter Notebook**: For an interactive environment to run EDA and visualize outputs.
+- **Visual Studio Code**: Used as an interactive environment for coding, running EDA, and visualizing outputs.
 
 ## Project Workflow
 
